@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="http://localhost:8081/repository/maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://oto-ci.bmwgroup.net/nexus/repository/gwmneu-repositories/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="restapi-public" />
+      <option name="name" value="restapi-public" />
+      <option name="url" value="https://oto-ci.bmwgroup.net/nexus/repository/gwmneu-repositories/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="external2-public" />
+      <option name="name" value="external2-public" />
+      <option name="url" value="https://oto-ci.bmwgroup.net/nexus/repository/gwmneu-repositories/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="external3-public" />
+      <option name="name" value="external3-public" />
+      <option name="url" value="https://oto-ci.bmwgroup.net/nexus/repository/gwmneu-repositories/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="unicenta-public" />
+      <option name="name" value="unicenta-public" />
+      <option name="url" value="https://oto-ci.bmwgroup.net/nexus/repository/gwmneu-repositories/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="atlassian-public" />
+      <option name="name" value="atlassian-public" />
+      <option name="url" value="https://oto-ci.bmwgroup.net/nexus/repository/gwmneu-repositories/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring2-public" />
+      <option name="name" value="spring2-public" />
+      <option name="url" value="https://oto-ci.bmwgroup.net/nexus/repository/gwmneu-repositories/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://oto-ci.bmwgroup.net/nexus/repository/gwmneu-repositories/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jcenter-public" />
+      <option name="name" value="jcenter-public" />
+      <option name="url" value="https://oto-ci.bmwgroup.net/nexus/repository/gwmneu-repositories/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="netbeans-public" />
+      <option name="name" value="netbeans-public" />
+      <option name="url" value="https://oto-ci.bmwgroup.net/nexus/repository/gwmneu-repositories/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-public" />
+      <option name="name" value="spring-public" />
+      <option name="url" value="https://oto-ci.bmwgroup.net/nexus/repository/gwmneu-repositories/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="primefaces-public" />
+      <option name="name" value="primefaces-public" />
+      <option name="url" value="https://oto-ci.bmwgroup.net/nexus/repository/gwmneu-repositories/" />
+    </remote-repository>
+  </component>
+</project>

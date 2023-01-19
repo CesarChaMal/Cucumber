@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="14" failures="0" name="cuke.CucumberRunnerTest" time="0.008" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.15+1-202204281500"/>
+    <property name="sun.boot.library.path" value="C:\Users\Cesar\.sdkman\candidates\java\current\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="E:/IdeaProjects/Cucumber"/>
+    <property name="java.vm.vendor" value="AdoptOpenJDK"/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Dynamic Code Evolution 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="E:\IdeaProjects\Cucumber"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="11.0.15+1-202204281500"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Cesar\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:/Users/Cesar/.sdkman/candidates/maven/current/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Users\Cesar\.sdkman\candidates\java\current\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Cesar\.sdkman\candidates\scala\current\bin;C:\Users\Cesar\.sdkman\candidates\sbt\current\bin;C:\Users\Cesar\.sdkman\candidates\quarkus\current\bin;C:\Users\Cesar\.sdkman\candidates\maven\current\bin;C:\Users\Cesar\.sdkman\candidates\kotlin\current\bin;C:\Users\Cesar\.sdkman\candidates\java\current\bin;C:\Users\Cesar\.sdkman\candidates\groovy\current\bin;C:\Users\Cesar\.sdkman\candidates\grails\current\bin;C:\Users\Cesar\.sdkman\candidates\gradle\current\bin;C:\Users\Cesar\.sdkman\candidates\ant\current\bin;C:\Users\Cesar\.sdkman\candidates\activemq\current\bin;C:\Users\Cesar\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Cesar\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\nvm;C:\Program Files\nodejs;E:\VisualStudio\Microsoft Visual Studio\2017\Community\Common7\Tools;C:\Users\Cesar\go\bin;C:\Program Files\heroku\bin;E:\VisualStudio\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin;C:\Program Files (x86)\Yarn\bin;C:\Program Files (x86)\sbt\bin;C:\Program Files (x86)\scala\bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Users\Cesar\AppData\Roaming\npm;E:\VisualStudio\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\Hostx64\x64\Lib.exe;C:\Apache2\bin;C:\Program Files\PostgreSQL\12\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\nodejs;C:\apache-maven-3.6.2\bin;C:\gradle-6.3\bin;C:\Python38;C:\Python38\scripts;C:\Python27;C:\Python27\scripts;C:\grails-4.0.1\bin;C:\groovy-3.0.4\bin;C:\apache-ant-1.10.1\bin;C:\Program Files\Sublime Text 3;E:\Android\platform-tools;C:\apache-axis2-1.7.9\bin;C:\Program Files\MongoDB\Server\4.2\bin;C:\apache-activemq-5.12.0\bin;C:\MessageQueue5.1\mq\bin;C:\apache-tomcat-8.5.49\bin;C:\apache-tomcat-8.5.49;C:\Ruby26-x64\bin;C:\php-7.3.12;C:\Program Files\MySQL\MySQL Shell 8.0\bin;C:\Program Files\Microsoft MPI\Bin;C:\Program Files\CollabNet\Subversion Client;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\PuTTY;C:\Program Files\TortoiseGit\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn;C:\Program Files\Microsoft SQL Server\130\DTS\Binn;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn;C:\Program Files (x86)\Gow\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Users\Cesar\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Git LFS;C:\Program Files\Amazon\AWSCLI\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\nssm-2.24;C:\HashiCorp\Vagrant\bin;C:\HashiCorp\Terraform\bin;C:\HashiCorp\Packer\bin;C:\oracle-cli\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Java\jdk-11.0.5\bin;C:\Program Files\Amazon\AWSCLI\bin;C:\Program Files (x86)\GitExtensions;C:\ProgramData\ComposerSetup\vendor;C:\ProgramData\ComposerSetup\bin;E:\Android\ndk\21.0.6113669;C:\Program Files\dotnet;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\nvm\v12.13.0\node_modules\npm\node_modules\npm-lifecycle\node-gyp-bin;C:\Program Files\nodejs\node_modules\windows-build-tools\node_modules\.bin;C:\Program Files\nodejs\node_modules\.bin;%VSINSTALLDIR%\Microsoft Visual Studio\2017\Community\Common7\Tools;%VSINSTALLDIR%\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin;%VSINSTALLDIR%\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\Hostx64\x64\Lib.exe;C:\Python38;C:\Python38\scripts;C:\Python27;C:\Python27\scripts;E:\Android\ndk\21.0.6113669;C:\Users\Cesar\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\Cesar\.dotnet\tools;C:\Program Files\Git\usr\bin\site_perl;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="maven.conf" value="C:/Users/Cesar/.sdkman/candidates/maven/current/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:/Users/Cesar/.sdkman/candidates/maven/current/lib/jansi-native"/>
+    <property name="user.home" value="C:\Users\Cesar"/>
+    <property name="user.timezone" value="Europe/Belgrade"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="Cesar"/>
+    <property name="java.class.path" value="C:/Users/Cesar/.sdkman/candidates/maven/current/boot/plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -U clean install"/>
+    <property name="java.home" value="C:\Users\Cesar\.sdkman\candidates\java\current"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.15"/>
+    <property name="java.vendor" value="AdoptOpenJDK"/>
+    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="maven.home" value="C:\Users\Cesar\.sdkman\candidates\maven\current"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2022-04-19"/>
+    <property name="java.vendor.url.bug" value="https://github.com/AdoptOpenJDK/openjdk-support/issues"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="AdoptOpenJDK-dcevm-11.0.15+1-202204281500"/>
+    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="Scenario: Doing stuff in multiple steps files" name="Given I start this with a count of 3" time="0.006"/>
+  <testcase classname="Scenario: Doing stuff in multiple steps files" name="When I ponder how many there are" time="0"/>
+  <testcase classname="Scenario: Doing stuff in multiple steps files" name="Then I find there are 3" time="0"/>
+  <testcase classname="Scenario: Doing stuff in multiple steps files" name="Scenario: Doing stuff in multiple steps files" time="0.001"/>
+  <testcase classname="Scenario: Doing more stuff" name="Given I start this with a count of 7" time="0"/>
+  <testcase classname="Scenario: Doing more stuff" name="When I ponder how many there are" time="0"/>
+  <testcase classname="Scenario: Doing more stuff" name="Then I find there are 7" time="0"/>
+  <testcase classname="Scenario: Doing more stuff" name="Scenario: Doing more stuff" time="0"/>
+  <testcase classname="Scenario: Doing stuff that fails" name="Given I start this with a count of 7" time="0"/>
+  <testcase classname="Scenario: Doing stuff that fails" name="When I ponder how many there are" time="0"/>
+  <testcase classname="Scenario: Doing stuff that fails" name="Then I find there are 7" time="0"/>
+  <testcase classname="Scenario: Doing stuff that fails" name="Scenario: Doing stuff that fails" time="0.001"/>
+  <testcase classname="Scenario: Building Objects" name="Given I have these soldiers" time="0"/>
+  <testcase classname="Scenario: Building Objects" name="Scenario: Building Objects" time="0"/>
+</testsuite>
